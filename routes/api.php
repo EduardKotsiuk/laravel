@@ -22,8 +22,3 @@ Route::get('/user', function (Request $request) {
 /// wgk
 /// wegjew'gkjew
 /// kg
-/// wek
-/// gk'ew;mg
-/// wegh
-/// jglewjhge
-/// rj]hrjgo;ler
