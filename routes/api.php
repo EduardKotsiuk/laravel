@@ -17,4 +17,13 @@ Route::get('/user', function (Request $request) {
     return $request->user();
 })->middleware('auth:api');
 
-/*gerhngiohoi*/
+///*gerhngiohoi*/fwefewfewfewf
+/// fojweopgfpwejgek
+/// wgk
+/// wegjew'gkjew
+/// kg
+/// wek
+/// gk'ew;mg
+/// wegh
+/// jglewjhge
+/// rj]hrjgo;ler
