@@ -20,5 +20,3 @@ Route::get('/user', function (Request $request) {
 ///*gerhngiohoi*/fwefewfewfewf
 /// fojweopgfpwejgek
 /// wgk
-/// wegjew'gkjew
-/// kg
